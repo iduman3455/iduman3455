@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Isa Duman 👋
 
-<!--
-**iduman3455/iduman3455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏛️ Senior Software Architect | Senior Software Engineer
+With **15+ years of experience** in software engineering, I specialize in building high-performance, scalable, and distributed systems within the **Microsoft Ecosystem**.
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** Developing **NexoMart**, a modular e-commerce suite based on modern architectural patterns.
+- ⚡ **Expertise:** .NET Core, C#, ASP.NET, Microservices, Distributed Systems.
+- 🏗️ **Architecture:** Saga Pattern, CQRS, Outbox Pattern, Event-Driven Design.
+- 🚀 **Past Experience:** 4 years of remote engineering for US-based firms.
+- 📍 **Location:** Istanbul, Turkiye (Open to Global Remote Opportunities)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠️ Tech Stack
+- **Languages:** C#, Go (Golang), Python,MongoDb,PostgreSQL,MySQL
+- **Frameworks:** .NET 8, Web API, Entity Framework,Dapper,NHibernate
+- **Tools:** Kafka, RabbitMQ, Redis, Docker, Kubernetes
+- **Cloud:** Azure, AWS
