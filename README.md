@@ -12,7 +12,7 @@ With **15+ years of experience** in software engineering, I specialize in buildi
 ---
 ### 🛠️ Tech Stack
 - **Languages:** C#, Go (Golang), Python, Java
-- **Frameworks:** .NET Core, Web API, Entity Framework, Dapper, NHibernate
+- **Frameworks:** .NET Core, Web API, Spring Framework, Spring Boot, Entity Framework, Dapper, NHibernate
 - **Relational Databases:** PostgreSQL, MySQL, MS SQL Server, Oracle
 - **NoSQL Databases:** MongoDB, Couchbase, Redis
 - **Search Engines:** Elasticsearch, OpenSearch
